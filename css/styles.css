@@ -840,7 +840,7 @@ body {
     background-color: #FFCB05; /* Cor cinza inicial */
     border: none;
     width: 95%;
-    height: 40px;
+    height: auto;
     padding: 10px;
     margin: 5px;
     cursor: pointer;
