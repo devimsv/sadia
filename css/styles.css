@@ -352,6 +352,7 @@ body {
     margin: 0 auto;
     display: block;
     max-width: 200px;
+    white-space: normal;
     text-align: center;
   }
 
