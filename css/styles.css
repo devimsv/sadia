@@ -354,7 +354,18 @@ body {
     white-space: normal;
     text-align: center;
   }
-
+  .popup-textL {
+    margin: 0 auto;
+    display: block;
+    white-space: normal;
+    text-align: center;
+  }
+  .popup-textL2 {
+    margin: 0 auto;
+    max-width: 200px;
+    white-space: normal;
+    text-align: center;
+  }
   .popup-buttonL {
     background-color: #FF0000;
     width: 95%;
