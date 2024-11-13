@@ -354,12 +354,7 @@ body {
     white-space: normal;
     text-align: center;
   }
-  .popup-textL2 {
-    margin: 0 auto;
-    max-width: 300px;
-    white-space: normal;
-    text-align: center;
-  }
+
   .popup-buttonL {
     background-color: #FF0000;
     width: 95%;
